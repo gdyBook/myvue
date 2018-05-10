@@ -9,7 +9,7 @@
 export default {
   data () {
     return {
-      author: "微信公众号 gdy999999"
+      author: "微信公众号 gdy999999999999999999999"
     }
   }
 }
