@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <template>
  <!--  <my-component></my-component> -->
   <div id="firstcomponents">
@@ -35,7 +35,7 @@ export default {
 <style>
 
 </style>
-=======
+
 <template>
  <!--  <my-component></my-component> -->
   <div id="firstcomponents">
@@ -72,4 +72,3 @@ export default {
 <style>
 
 </style>
->>>>>>> 56643d7a70072d0014d5a288820bd744f5085066

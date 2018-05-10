@@ -34,5 +34,5 @@ export default {
 </script>
  
 <style>
->>>>>>> 56643d7a70072d0014d5a288820bd744f5085066
+
 </style>

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 <template>
   <div id="footers">
@@ -25,7 +25,7 @@ export default {
   bottom: 0;
   left: 0;
 }
-=======
+
 
 <template>
   <div id="footers">
@@ -52,5 +52,5 @@ export default {
   bottom: 0;
   left: 0;
 }
->>>>>>> 56643d7a70072d0014d5a288820bd744f5085066
+
 </style>

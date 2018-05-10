@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 <template>
   <div id="firstcomponent">
@@ -22,7 +21,7 @@ export default {
 	height: 50px;
 	border-bottom: 1px solid #d8d8d8;
 }
-=======
+
 
 <template>
   <div id="firstcomponent">
@@ -46,5 +45,5 @@ export default {
 	height: 50px;
 	border-bottom: 1px solid #d8d8d8;
 }
->>>>>>> 56643d7a70072d0014d5a288820bd744f5085066
+
 </style>

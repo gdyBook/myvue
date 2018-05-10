@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <template>
   <div id="firstcomponent">
     <h1>我是鸡肉啊</h1>
@@ -16,7 +16,7 @@ export default {
 </script>
  
 <style>
-=======
+
 <template>
   <div id="firstcomponent">
     <h1>我是鸡肉啊</h1>
@@ -34,5 +34,5 @@ export default {
 </script>
  
 <style>
->>>>>>> 56643d7a70072d0014d5a288820bd744f5085066
+
 </style>

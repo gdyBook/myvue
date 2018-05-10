@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import Vue from 'vue'
 import Router from 'vue-router'
 import Index from '../components/index.vue'
@@ -27,7 +27,7 @@ export default new Router({
   }]
 })
 
-=======
+
 import Vue from 'vue'
 import Router from 'vue-router'
 import Index from '../components/index.vue'
@@ -56,4 +56,3 @@ export default new Router({
   }]
 })
 
->>>>>>> 56643d7a70072d0014d5a288820bd744f5085066
