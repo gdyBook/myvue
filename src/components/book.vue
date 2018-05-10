@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <template>
   <div id="firstcomponent">
     <h1>我是book啊</h1>
@@ -9,14 +9,14 @@
 export default {
   data () {
     return {
-      author: "微信公众号 gdy"
+      author: "微信公众号 gdy999999"
     }
   }
 }
 </script>
  
 <style>
-=======
+
 <template>
   <div id="firstcomponent">
     <h1>我是book啊</h1>
